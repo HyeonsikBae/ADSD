@@ -17,6 +17,6 @@
 
 ## 진행내용
 
-​	![image-20210830170030768](.\index.JPG)
+​	![image-20210830170030768](https://github.com/HyeonsikBae/ADSD/blob/master/index.JPG)
 
-![image-20210830170030768](.\home.JPG)
+![image-20210830170030768](https://github.com/HyeonsikBae/ADSD/blob/master/home.JPG)
