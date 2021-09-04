@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="home.css">
+<html lang="ko">
+	<head>
+		<meta charset="utf-8">
+		<title>알뜰살뜰 가계부 - home</title>
+	</head>
+	<body>
+	<header>
+		알뜰살뜰 가계부
+	</header>
+	<div class="wrapper">
+
+		<div class="sidebar_left">
+			<div  id="Info">
+				이름 <br>
+				한마디 <br>
+				<button type="button" onClick="location.href='account.html'">개인정보</button>
+				<button type="button" onClick="location.href='index.html'">로그아웃</button>
+			</div>
+			<div id="Category">
+				<label for="category">메뉴</label>
+					<select name="category" onchange="location.href=this.value">
+						<option value="account_book.html">알뜰살뜰 가계부</option>
+						<option value="calculator.html">알뜰살뜰 N빵</option>
+					</select> <br>
+			</div>
+		</div>
+		<div class="center">
+			<div id="Contents">
+				CONTENTS!
+			</div>
+		</div>
+		<div class="sidebar_right">
+			<div id="Result">
+				RESULT!
+			</div>
+		</div>
+
+	</div>
+	</body>
+</html>
